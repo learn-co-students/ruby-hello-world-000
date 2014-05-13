@@ -1,7 +1,7 @@
 ---
 tags: basics
 language: ruby
-  resources: 1
+resources: 1
 ---
 
 # Hello World
