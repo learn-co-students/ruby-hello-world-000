@@ -16,4 +16,4 @@ puts "Hello World!"
 
 And you'll get a better sense of how that works.
 ## Resources
-* [Learn to Program](http://books.flatironschool.com/books/43?page=27) - [Chapter 3 Letters](http://books.flatironschool.com/books/43), page 27
+* [Learn to Program](http://books.flatironschool.com/books/43?page=27) - [Chapter 3 Letters](http://books.flatironschool.com/books/43?page=27), page 27
