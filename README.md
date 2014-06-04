@@ -1,5 +1,5 @@
 ---
-tags: basics
+tags: basics, rspec
 language: ruby
 resources: 1
 ---
