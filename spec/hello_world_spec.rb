@@ -1,4 +1,3 @@
-require 'spec_helper'
 describe "Hello World" do 
 
   it 'puts "Hello World!"' do
