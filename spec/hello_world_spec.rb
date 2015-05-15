@@ -5,7 +5,10 @@ describe "Hello World" do
     # we are testing this, focus on simply coding your solution.
     expect($stdout).to receive(:puts).with("Hello World!")
     # Get your program to puts "Hello World!"
-    # Code your solution right here.
+    # Code your solution right here.'
+puts "Hello World!"
   end
 
+
 end
+
